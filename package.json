@@ -34,7 +34,8 @@
   },
   "homepage": "https://github.com/react-native-community/react-native-tab-view#readme",
   "dependencies": {
-    "prop-types": "^15.6.0"
+    "prop-types": "^15.6.0",
+    "react-native-viewpager": "^0.2.13"
   },
   "devDependencies": {
     "@expo/vector-icons": "^6.2.0",
